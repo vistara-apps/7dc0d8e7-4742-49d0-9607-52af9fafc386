@@ -13,7 +13,7 @@ export function Header() {
               <TrendingUp className="w-6 h-6 text-primary" />
             </div>
             <div>
-              <h1 className="text-xl font-bold gradient-text">Narrative Markets</h1>
+              <h1 className="text-xl font-bold gradient-text">Verifiable Narrative Markets</h1>
               <p className="text-xs text-fg/60">Verifiable predictions on Base</p>
             </div>
           </div>

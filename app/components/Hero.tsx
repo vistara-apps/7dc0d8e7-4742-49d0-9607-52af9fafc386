@@ -17,7 +17,7 @@ export function Hero() {
             Verifiable Narrative Markets
           </h2>
           <p className="text-xl text-fg/80 max-w-2xl mx-auto leading-relaxed">
-            Predict complex cultural phenomena with AI-powered verification and transparent on-chain settlement
+            Prediction markets on complex cultural phenomena requiring interpretation, where AI judges settle markets with logic anyone can verify.
           </p>
         </div>
 
