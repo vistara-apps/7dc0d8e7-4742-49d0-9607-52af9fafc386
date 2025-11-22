@@ -1,0 +1,14 @@
+{
+  "name": "Narrative Markets",
+  "description": "Narrative Markets is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://7dc0d8e7-4742-49d0-9607-52af9fafc386.vercel.app",
+  "properties": {
+    "app": {
+      "name": "Narrative Markets",
+      "description": "Narrative Markets is a Base Mini App built with Zara.",
+      "url": "https://7dc0d8e7-4742-49d0-9607-52af9fafc386.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}

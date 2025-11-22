@@ -8,9 +8,9 @@
     "version": "next",
     "name": "Narrative Markets",
     "iconUrl": "https://narrative.markets/icon.png",
-    "homeUrl": "https://narrative.markets",
+    "homeUrl": "https://app-9fafc386-x17n.vercel.app",
     "splashImageUrl": "https://narrative.markets/splash.png",
     "splashBackgroundColor": "#0f1419",
-    "webhookUrl": "https://api.narrative.markets/webhook"
+    "webhookUrl": "https://app-9fafc386-x17n.vercel.app/api/webhook"
   }
 }
